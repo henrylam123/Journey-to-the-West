@@ -1,2 +1,6 @@
-# Journey-to-the-West
-DIGHUM 101 Individual Project
+# Computational Text Analysis of Journey-to-the-West
+
+![](figures/JourneytotheWest.jpg)
+
+## Abstraction
+
